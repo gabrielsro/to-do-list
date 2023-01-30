@@ -2,6 +2,6 @@ import "./style.css";
 
 const trial = document.createElement("p");
 trial.classList.add("trial");
-trial.innerText = "Created by index.js. Testing live server now. Pretty cool.";
+trial.innerText = "Created by index.js. New test";
 
 document.body.appendChild(trial);
